@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @yusufaltug
--I am interested in android application development and web design-
--python and kotlin are among my interests -
+Dedicated to continuous learning and professional growth.
 
 
 <!---
